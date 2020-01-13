@@ -4,7 +4,7 @@ CURSO: Análisis de datos Raster y Vectoriales con Python.
 
 FECHA: 13 al 17 de ENERO del 2020.  
 
-OBJETIVO: Objetivo El alumno conocerá las principales aplicaciones del lenguaje de programación Python en el procesamiento de 
+OBJETIVO: Objetivo el alumno conocerá las principales aplicaciones del lenguaje de programación Python en el procesamiento de 
 datos espaciales con uso de módulos Open Source. 
 
 ## TEMARIO:
